@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', () => {
         `Attending: ${attending.value === 'yes' ? 'Joyfully Accepts ✓' : 'Regretfully Declines'}`
       ].filter(Boolean).join('\n');
 
-      window.open(`https://wa.me/94785000848?text=${encodeURIComponent(msg)}`, '_blank');
+      window.open(`https://wa.me/94712623041?text=${encodeURIComponent(msg)}`, '_blank');
 
       /* ── Formspree alternative ── uncomment + set your ID ──
       fetch('https://formspree.io/f/YOUR_FORM_ID', {
