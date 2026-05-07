@@ -416,7 +416,7 @@ a   { text-decoration: none; }
 
      Step 2:  Uncomment the line below:
   ──────────────────────────────────────────────────────────── */
-  background-image: url('assets/quote-bg.jpg');
+  background-image: url('assets/quote-bg.JPG');
 
   /* Step 3:  Adjust overlay darkness if needed (0 = none, 1 = full black)
               Default is 0.65 — good for most photos. Change in .quote-overlay below. */
